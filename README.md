@@ -1,7 +1,6 @@
 ### Olá! Eu sou a Larissa Azevedo 👋
  ![Larissa GitHub stats](https://github-readme-stats.vercel.app/api?username=Larissa081208&show_icons=true&theme=dracula&count_private=true)
 
-- 😊 Pronomes: ela/dela
 ### Estudo Desenvolvimento de Software com foco em back-end pela Cubos Academy:
 - 🎯 Desenvolvimento Back-end utilizando Javascript
 - 🎯 Desenvolvimento de APIs Rest
