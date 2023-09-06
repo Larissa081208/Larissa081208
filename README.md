@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Larissa Azevedo 👋
 
-![Larissa GitHub stats](https://github-readme-stats.vercel.app/api?username=Larissa08120813&show_icons=true&theme=dracula&count_private=true)
+![Larissa08120813 GitHub stats](https://github-readme-stats.vercel.app/api?username=&show_icons=true&theme=dracula&count_private=true)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
