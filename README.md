@@ -25,7 +25,8 @@
  - 🟢 aberta a feedbacks;
  - 🟢 Mentalidade de aprendizado contínuo;
  - 🟢 Organizada e proativa;
- - 🟢 Trabalho remoto.
+ - 🟢 adaptabilidade ao Trabalho remoto;
+ - 🟢 Autodidata e com curva de aprendizado rápida.
 
 ### Contato:
 
