@@ -26,7 +26,7 @@ Atualmente tenho buscado compreender a integração entre back e front através 
 ### Contato:
 
 ✉ Email: larissaevelinregoazevedo2@gmail.com
-🔗 LinkedIn: Larissa Azevedo
+🔗 LinkedIn: www.linkedin.com/in/larissa-azevedo-64aa1023a
 🐙 GitHub: Larissa081208
 
 
