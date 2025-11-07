@@ -30,7 +30,7 @@
 
 ### Contato:
 
-✉ Email: larissaevelinregoazevedo2@gmail.com
+✉ Email: larissaevelinregoazevedo@gmail.com
 🔗 LinkedIn: www.linkedin.com/in/larissa-azevedo-64aa1023a
 🐙 GitHub: Larissa081208
 
